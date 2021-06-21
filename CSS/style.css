@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background:linear-gradient(to top right, blue,purple);
+  
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  border: 10px ridge red
+}
+Marquee{
+  color:#fff;
+  font-size:50px;
+  font-family:"arial black";
+  font-weight: bold;
+  background: radial-gradient(purple,pink)
+}
